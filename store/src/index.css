@@ -1,0 +1,25 @@
+body{
+    font-family: Calibri;
+}
+
+h1{
+   text-align: center;
+}
+
+.container{
+    margin: 0 auto;
+    border: solid 2px red;
+    border-radius: 5px;
+    width: 150px;
+    height: 200px;
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.section-one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
